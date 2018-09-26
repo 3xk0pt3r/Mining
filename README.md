@@ -1,0 +1,2 @@
+# Mining
+Mining software for download, CHANGE CONFIG FILES AS UPLOADED HAVE MY PERSONAL SETTINGS
